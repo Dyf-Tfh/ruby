@@ -13,4 +13,4 @@ end
 
 print text , "=", rs
 puts
-
+ 

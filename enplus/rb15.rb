@@ -26,4 +26,4 @@ superhash= {
     "z" => "--.."
   }
 mots = gets.chomp
-puts mots[3]
+puts m
