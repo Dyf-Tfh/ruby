@@ -1,7 +1,9 @@
-puts "nb utilisateur"
-print ">" 
-nb_utilisateur = gets.chomp
-nb_utilisateur = nb_utilisateur.to_i 
-nb_utilisateur.times do
-    puts "hello"
+puts "nb svp"
+nb=gets.chomp
+nb = nb.to_i
+i = 1
+puts "je sais compter jusqu'à #{nb} hahaha"
+nb.times do
+    puts "#{i}"
+    i+=1
 end
